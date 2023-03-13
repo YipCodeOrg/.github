@@ -2,6 +2,10 @@
 
 YipCode is an AWS serverless app designed to solve the problem of people moving addresses and forgetting to update their registered postal address with various online companies. This app utilizes AWS services, such as Lambda, API Gateway, DynamoDB, and Cognito, to provide a seamless experience for end-users and businesses alike.
 
+## Incompleteness
+
+The app is not feature complete to support an MVP.
+
 ## Features
 
 - End-users can register and maintain their postal addresses with YipCode. They can then share this address with online companies and services, reducing the need for repetitive data entry.
